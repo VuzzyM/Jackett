@@ -361,7 +361,6 @@ Prior versions of Jackett are no longer supported.
  * CrnaBerza
  * cspt (财神)
  * cyanbug (大青虫)
- * DANISH BYTES
  * Darkpeers
  * Das Unerwartete (D-U)
  * DataScene (DS)
@@ -373,6 +372,7 @@ Prior versions of Jackett are no longer supported.
  * DiscFan [![(invite needed)][inviteneeded]](#)
  * DocsPedia
  * Drugari
+ * DS-Reloaded
  * dubhe (天枢) [![(invite needed)][inviteneeded]](#)
  * Ebooks-Shares [![(invite needed)][inviteneeded]](#)
  * Empornium (EMP) [![(invite needed)][inviteneeded]](#)
@@ -472,7 +472,6 @@ Prior versions of Jackett are no longer supported.
  * Le Saloon [![(invite needed)][inviteneeded]](#)
  * LearnFlakes
  * Leech24
- * LemonHD [![(invite needed)][inviteneeded]](#)
  * LemonHD.net
  * Lesbians4u
  * LetSeed
@@ -516,6 +515,7 @@ Prior versions of Jackett are no longer supported.
  * njtupt (浦园)) [![(invite needed)][inviteneeded]](#)
  * NOBS (NUCLEAR ORDER BIT SYNDICATE)
  * NorBits
+ * NordicBytes
  * NORDiCHD
  * NordicQuality
  * Nostradamus
@@ -528,7 +528,7 @@ Prior versions of Jackett are no longer supported.
  * OnlyEncodes+
  * OshenPT
  * OurBits (HDPter)
- * P2PBG
+ * P2PBG [PAY2DL]
  * Panda
  * Party-Tracker
  * PassThePopcorn (PTP) [![(invite needed)][inviteneeded]](#)
@@ -539,6 +539,7 @@ Prior versions of Jackett are no longer supported.
  * PixelCove (Ultimate Gamer)
  * PiXELHD (PxHD) [![(invite needed)][inviteneeded]](#)
  * PlayletPT [![(invite needed)][inviteneeded]](#)
+ * Podzemlje
  * Polish Torrent (PTT)
  * PolishTracker [![(invite needed)][inviteneeded]](#)
  * Pornbay [![(invite needed)][inviteneeded]](#)

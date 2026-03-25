@@ -360,6 +360,7 @@ namespace Jackett.Updater
                 "Definitions/cztorrent.yml",
                 "Definitions/dajiao.yml",
                 "Definitions/danishbytes.yml", // migrated to C#
+                "Definitions/danishbytes-api.yml ", // renamed to nordicbytes #10758
                 "Definitions/dariustracker.yml",
                 "Definitions/dark-shadow.yml",
                 "Definitions/darktracker.yml",
@@ -496,6 +497,7 @@ namespace Jackett.Updater
                 "Definitions/horriblesubs.yml",
                 "Definitions/horrorsite.yml",
                 "Definitions/hqsource.yml",
+                "Definitions/huntorrent-bithorlo.yml", // merged with huntorrent
                 "Definitions/hush.yml",
                 "Definitions/hyperay.yml",
                 "Definitions/ibit.yml",
@@ -540,6 +542,7 @@ namespace Jackett.Updater
                 "Definitions/legacyhd.yml", // renamed to realflix
                 "Definitions/legittorrents.yml",
                 "Definitions/lemencili.yml",
+                "Definitions/lemonhd.yml",
                 "Definitions/leparadisdunet.yml",
                 "Definitions/lepornoinfo.yml",
                 "Definitions/les-cinephiles.yml",
